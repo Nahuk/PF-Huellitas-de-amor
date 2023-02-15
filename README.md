@@ -22,7 +22,7 @@ Página Web creada para facilitar el proceso de adopción de mascotas tanto como
 - [Luciano Firpo](https://github.com/Luckiifirpo)
 - [Oscar Burgos](https://github.com/Oskarp88)
 - [William Estrada](https://github.com/wcamest)
-- [Nahuel Grodz](https://github.com/Nahuk)
+- [Alejandro Palacios](https://github.com/Alexpalagomez1255)
 - [Fernando Frias](https://github.com/ffernando93)
 
 
